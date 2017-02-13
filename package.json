@@ -1,0 +1,29 @@
+{
+  "name": "hapi-api-auth",
+  "version": "1.0.0",
+  "description": "A simple header based authentication for Hapi.js",
+  "main": "hapi-api-auth",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "auth",
+    "token",
+    "header",
+    "api",
+    "authentication",
+    "secure",
+    "micro-service"
+  ],
+  "author": "Yan philippe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitbreakr/hapi-header-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bitbreakr/hapi-header-token/issues"
+  },
+  "homepage": "https://github.com/bitbreakr/hapi-header-token#readme"
+}
